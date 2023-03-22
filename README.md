@@ -1,7 +1,7 @@
 # Dart와 Flutter 배우기
 
 이것은 Dart와 Flutter를 공부하는 공간 입니다.
-![Flutter Logo](https://flutter.dev/assets/flutter-lockup-crop.png)
+![Flutter Logo](https://blog.kakaocdn.net/dn/b45ZB6/btrF5dyXNck/C5j0Gbxf8kCMWfEfBmkZ3K/img.png)
 
 ---
 
