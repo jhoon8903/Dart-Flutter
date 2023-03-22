@@ -24,6 +24,24 @@ Flutter는 Dart 언어를 사용하며, "핫 리로드"를 통해 개발자가 �
 ## 시작하기
 
 1. [Dart SDK](https://dart.dev/get-dart)와 [Flutter SDK](https://flutter.dev/docs/get-started/install)를 아직 설치하지 않았다면 설치하세요.
+
+- Dart SDK Installation (Brew environment)
+  - brew tap dart-lang/dart
+  - brew install dart (23.03.22 --version 2.19.4)
+  - brew upgrade dart
+- Flutter SDK
+  - https://docs.flutter.dev/development/tools/sdk/releases?tab=macos
+    - 다운로드받은 파일 압축 풀고 => ./flutter/bin/flutter --version
+  - Android Studio installation
+    - https://developer.android.com/studio
+  - XCode installation
+    - App Store installation (Xcode installation)
+  - CocoaPods installation
+    - gem install activesupport -v 6.1.7.3
+    - sudo gem install cocoapods
+  - VSCODE Extension
+    - Flutter, Dart
+
 2. 터미널이나 명령 프롬프트에서 `dart --version` 및 `flutter --version`을 실행하여 두 개가 올바르게 설치되었는지 확인하세요.
 3. Flutter와 함께 사용할 IDE (통합 개발 환경)를 선택하세요. 권장하는 옵션은 Android Studio, Visual Studio Code 또는 IntelliJ IDEA입니다. 선택한 IDE에 Flutter 확장 프로그램을 설치하세요.
 4. 터미널이나 명령 프롬프트에서 `flutter create project_name`을 실행하여 새 Flutter 프로젝트를 만드세요.
