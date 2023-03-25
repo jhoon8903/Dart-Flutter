@@ -9,8 +9,8 @@ void main() {
   name1 = true;
   print('dynamic > intger expression name1 is $name1');
 
-  const String name2 = 123; // string Type 에 int type 할당 불가능
-  const String name2_1 = '123';
-  const int name3 = '123'; // int type에 String Type 할당이 불가능
-  const int name3_1 = 123;
+  // const String name2 = 123; // string Type 에 int type 할당 불가능
+  // const String name2_1 = '123';
+  // const int name3 = '123'; // int type에 String Type 할당이 불가능
+  // const int name3_1 = 123;
 }
